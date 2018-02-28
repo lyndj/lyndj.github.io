@@ -7,7 +7,7 @@ html{
 }
 #content {
 	text-align: center;
-	padding-top: 25%;
+	padding: 15%;
 }
 h1 {
 	font-weight: 700;
@@ -18,4 +18,15 @@ hr {
 	width: 400px;
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#footer {
+	text-align: center;
+	padding: auto;
+	font-size: 10px;
+	color: #555;
+}
+
+.footer {
+	color: red;
 }
